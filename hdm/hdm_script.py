@@ -69,7 +69,4 @@ with open("hdm-review-test.csv", "w") as f:
 
 f.close()
 
-# TODO: rapihin. less cluttered.
-
-
 
